@@ -1,6 +1,7 @@
 package com.ariverh.creational.prototype;
 
 public class Cat extends Animal{
+
     public Cat(){
         type = "cat";
     }

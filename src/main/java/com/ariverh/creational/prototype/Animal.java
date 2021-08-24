@@ -5,6 +5,7 @@ public abstract class Animal implements Cloneable {
     private Long id;
     protected String type;
 
+
     abstract void shout();
 
     public Long getId() {

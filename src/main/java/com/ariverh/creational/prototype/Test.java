@@ -1,6 +1,7 @@
 package com.ariverh.creational.prototype;
 
 public class Test {
+
     public static void main(String[] args) {
         AnimalCache.loadData();
 

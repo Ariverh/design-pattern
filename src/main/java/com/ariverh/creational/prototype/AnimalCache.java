@@ -3,6 +3,7 @@ package com.ariverh.creational.prototype;
 import java.util.HashMap;
 
 public class AnimalCache {
+
     private static HashMap<Long,Animal> animalCache = new HashMap<>();
 
     public static Animal getAnimal(Long id){

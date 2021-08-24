@@ -1,4 +1,4 @@
-package com.ariverh.singleton;
+package com.ariverh.creational.singleton;
 
 public class SingletonObject2 {
     private static SingletonObject2 instance = new SingletonObject2();

@@ -1,4 +1,4 @@
-package com.ariverh.prototype;
+package com.ariverh.creational.prototype;
 
 public abstract class Animal implements Cloneable {
 

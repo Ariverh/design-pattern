@@ -1,4 +1,4 @@
-package com.ariverh.singleton;
+package com.ariverh.creational.singleton;
 
 public class SingletonObject4 {
     private volatile static SingletonObject4 instance;

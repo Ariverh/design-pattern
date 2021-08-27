@@ -2,7 +2,7 @@ package com.ariverh.structural.decorator;
 
 public class Decorator implements SourceAble{
 
-    private Source source;
+    private SourceAble source;
 
     public Decorator(Source source){
         this.source = source;
